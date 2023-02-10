@@ -1,5 +1,5 @@
 # Data_Science_Brigade
-Repositório contendo o notebook da resolução do case técnico para o processo seletivo de Cientista de Dados Jr da Data Science Brigade.
+## Repositório contendo o notebook da resolução do case técnico para o processo seletivo de Cientista de Dados Jr da Data Science Brigade.
 
 Esse notebook é de autoria de Antônio Teixeira Santana Neto e representa a resolução do teste técnico para o cargo de Cientista de Dados Jr na Data Science Brigade.
 
